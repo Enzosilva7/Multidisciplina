@@ -13,3 +13,4 @@ userData_De_Nascimento = input("Coloque sua data de nascimento: (pressione enter
 userNome = input("Coloque seu nome: (Pressione enter para continuar)")
 userEmail = input("Coloque seu email: (Pressione enter para continuar)")
 usuario1 = user(userNome, userEmail, userData_De_Nascimento, userNome_De_Usuário, userSenha)
+input()
